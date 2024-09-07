@@ -12,4 +12,4 @@
 
 **Acesse agora:**
 * **Local:** Clone o repositório para explorar o código.
-* **Online:** Faça seu pedido em [Insira o link aqui]
+* **Online:** Faça seu pedido em [https://burguer-mania-pzjb.vercel.app/]
