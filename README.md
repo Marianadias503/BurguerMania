@@ -1,12 +1,15 @@
-                                                                            #Burguer Mania
+# Burguer Mania
 
-                      Projeto desenvovido com base nos estudos adquidiros na imersão alura, com  Rafaella Ballerini, Guilherme Lima e Luciano Martins.
-                      **Conhecimentos adquiridos:** Html, css, funçoes Js
+**Sua hamburgueria online favorita!**
 
-                      O projeto trata-se de uma loja online de hamburguer, onde o usuári consegue vizualizar os produtos rolando a página ou então através da barra de pesquisa.
+**Desenvolvido por:**
+*desenvolvido por Mariana Dias, durante a imersão com Rafaella Ballerini, Guilherme Lima e Luciano Martins, sobre uso de html,css e funções js, com ajuda da IA Gemini
 
-                                                                        **Instruçaõo de acceso:**  
+**Funcionalidades:**
+* Catálogo completo de hambúrgueres
+* Busca rápida e intuitiva
 
 
-                   **Através do código : ** clone o projeto e abra em sua máquina para acessae através od código
-                   **link : ** Acesse pelo link :
+**Acesse agora:**
+* **Local:** Clone o repositório para explorar o código.
+* **Online:** Faça seu pedido em [Insira o link aqui]
