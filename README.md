@@ -2,7 +2,6 @@
 
 **Sua hamburgueria online favorita!**
 
-**Desenvolvido por:**
  Projeto de minha autoria, desenvolvido durante a imersão com Rafaella Ballerini, Guilherme Lima e Luciano Martins, sobre uso de html,css e funções js, com ajuda da IA Gemini
 
 **Funcionalidades:**
